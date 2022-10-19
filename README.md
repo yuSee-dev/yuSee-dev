@@ -1,24 +1,12 @@
-<!--
-**PLAYseung/PLAYseung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<center>
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=ABCCEB&height=300&section=header&text=welcome&fontColor=ffffff&fontSize=90&fontAlignY=45&desc=yuSee%20GitHub&descAlign=63&descSize=24 )
 
+</center>
 
-
-<br/> 안녕하세요.👋
+<br/> <center>안녕하세요.👋</center>
 <br/> 저는 유희승이고 <strong>백앤드</strong>를 공부하고 있습니다.
 <br/> <strong>Python</strong>을 기초로 하고 다른 언어들도 열심히 배우는 중이랍니다!
 <br/>
@@ -29,8 +17,6 @@ Here are some ideas to get you started:
 
 ### contact 
 ✉️ mail : yusee.dev@gmail.com
-
-<br/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FplaySeung%2Fhit-counter&count_bg=%23ABCCEB&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -47,8 +33,6 @@ Here are some ideas to get you started:
 
 <br/>
 <br/>
-<br/>
-<br/>
 
 ### 🛠️ Tool 🛠️
 
@@ -58,11 +42,12 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>&nbsp 
 
-
+<br/>
+<br/>
 <br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=playSeung)](https://github.com/playSeung/github-readme-stats)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=ABCCEB&height=200&section=footer)
 
-</center>
+</div>
