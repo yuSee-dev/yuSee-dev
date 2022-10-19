@@ -7,7 +7,7 @@
 </center>
 
 <br/> <center>안녕하세요.👋</center>
-<br/> 저는 유희승이고 <strong>백앤드</strong>를 공부하고 있습니다.
+<br/> 저는 유희승이고, <strong>백앤드</strong>를 공부하고 있습니다.
 <br/> <strong>Python</strong>을 기초로 하고 다른 언어들도 열심히 배우는 중이랍니다!
 <br/>
 <br/>
