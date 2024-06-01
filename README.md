@@ -46,7 +46,7 @@
 <br/>
 <br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=playSeung)](https://github.com/playSeung/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=playSeung)](https://github.com/yuSee-dev/github-readme-stats)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=ABCCEB&height=200&section=footer)
 
